@@ -1,3 +1,4 @@
 첫번째 줄
 upstream
 git diff
+pull & fetch
